@@ -1,0 +1,4 @@
+name: HerozLobbyAPI
+version: 0.1
+author: iHDeveloper
+main: sa.heroz.lobbyapi.LobbyAPI
